@@ -1,8 +1,10 @@
+import {Container, Typography} from "@mui/material";
+
 function App() {
   return (
-    <>
-      project boilerplate
-    </>
+    <Container maxWidth="sm">
+      <Typography variant="h2">project boilerplate</Typography>
+    </Container>
   )
 }
 
