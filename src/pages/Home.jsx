@@ -1,11 +1,11 @@
 import { Container, Typography } from '@mui/material';
 
-function App() {
+function Home() {
   return (
     <Container maxWidth="sm">
-      <Typography variant="h2">project boilerplate</Typography>
+      <Typography variant="h2">Project Boilerplate</Typography>
     </Container>
   );
 }
 
-export default App;
+export default Home;
